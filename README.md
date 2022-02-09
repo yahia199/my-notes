@@ -9,7 +9,8 @@
 - [Movies](https://www.netflix.com/jo/browse/genre/34399)
 
 ***A single purpose of all software: To help people.***
-*some of key points that every developer must master.*
+
+**some of key points that every developer must master.**
 1. The Purpose of Software
 2. Your design should be easy for you and helpful for others
 3. misunderstanding leads to complexity
