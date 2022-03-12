@@ -18,3 +18,4 @@
 5. solving problems and taking a decision.
 6. Don't predict to future. Be only as generic as you know you need to be right now.
 7. Code should be designed based on what you know now, not on what you think will happen in the future.
+saafjkahfjkahj
